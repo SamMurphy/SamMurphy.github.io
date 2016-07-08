@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "About"
-    url: /404/
+    url: /404.html
 
   - title: "Blog"
-    url: /404/
+    url: /404.html
     
   - title: "Portfolio"
-    url: /404/
+    url: /404.html
     
   - title: "CV"
-    url: /404/
+    url: /404.html
