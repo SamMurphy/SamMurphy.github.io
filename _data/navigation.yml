@@ -4,7 +4,7 @@ main:
     url: /404.html
 
   - title: "Blog"
-    url: /404.html
+    url: /blog/
     
   - title: "Portfolio"
     url: /404.html
