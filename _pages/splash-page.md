@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: unsplash-image-1.jpg
-excerpt: "I'm a computer science student currently studying for my masters degree at the university of hull, once completed I hope to pursue a career in game development."
+excerpt: "I'm a computer science student currently studying for my masters degree at the university of hull. Once completed, I hope to pursue a career in game development."
 portfolio_feature:
   - image_path: unsplash-gallery-image-2-th.jpg
     alt: "portfolio"
