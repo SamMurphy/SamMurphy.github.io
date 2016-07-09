@@ -39,6 +39,13 @@ feature_row:
     url: "/blog/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+  - image_path: server-splash2.png
+    alt: "Server"
+    title: "Server Information"
+    excerpt: "All the information needed to conect to the various game servers that I host."
+    url: "http://sammurphy.no-ip.info/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
 ---
 
 {% include feature_row %}
