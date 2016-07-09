@@ -6,7 +6,7 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: colluseeum.png
+  overlay_image: splash-banner.JPG
 excerpt: "I'm a computer science student currently studying for my masters degree at the university of hull. Once completed, I hope to pursue a career in game development."
 portfolio_feature:
   - image_path: unsplash-gallery-image-2-th.jpg
@@ -17,7 +17,7 @@ portfolio_feature:
     btn_label: "Read More"
     btn_class: "btn--inverse"
 blog_feature:
-  - image_path: unsplash-gallery-image-2-th.jpg
+  - image_path: colluseeum.png
     alt: "blog"
     title: "Blog"
     excerpt: "I write about things I do, things I've made, and things I'm interested in."
