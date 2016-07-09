@@ -23,8 +23,28 @@ feature_row:
     url: "/portfolio/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+portfolio_feature:
+  - image_path: unsplash-gallery-image-2-th.jpg
+    alt: "portfolio"
+    title: "Portfolio"
+    excerpt: "Projects that I've completed, both on my own and as part of a larger team."
+    url: "/portfolio/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+blog_feature:
+  - image_path: unsplash-gallery-image-2-th.jpg
+    alt: "blog"
+    title: "Blog"
+    excerpt: "I write about things I do, things I've made, and things I'm interested in."
+    url: "/blog/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
 ---
 
 {% include feature_row id="intro" type="center" %}
+
+{% include feature_row id="portfolio_feature" type="left" %}
+
+{% include feature_row id="blog_feature" type="right" %}
 
 {% include feature_row %}
