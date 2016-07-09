@@ -1,6 +1,6 @@
 ---
 title: First Blog Post
-date: '2016-07-09 15:53:48'
+date: '2016-07-09 15:53:00'
 layout: ''
-draft: true
 ---
+Blogging blog of a blog, which is bloggggggg
