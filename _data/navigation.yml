@@ -7,7 +7,7 @@ main:
     url: /blog/
     
   - title: "Portfolio"
-    url: /404.html
+    url: /portfolio/
     
   - title: "CV"
     url: /docs/CV-2016.pdf
