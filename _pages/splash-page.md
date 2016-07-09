@@ -26,6 +26,6 @@ blog_feature:
     btn_class: "btn--inverse"
 ---
 
-{% include feature_row id="portfolio_feature" type="left" %}
+{% include feature_row id="portfolio_feature" type="right" %}
 
 {% include feature_row id="blog_feature" type="left" %}
