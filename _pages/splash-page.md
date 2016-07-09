@@ -17,7 +17,7 @@ portfolio_feature:
     btn_label: "Read More"
     btn_class: "btn--inverse"
 blog_feature:
-  - image_path: colluseeum.png
+  - image_path: Splash-blog.png
     alt: "blog"
     title: "Blog"
     excerpt: "I write about things I do, things I've made, and things I'm interested in."
