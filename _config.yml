@@ -14,7 +14,7 @@ description              : "Portfolio & Blog."
 url                      : "https://SamMurphy.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
-teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "Default-Teaser.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -42,7 +42,7 @@ facebook:
   username               : "sammurphy1994"
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "og_image.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -67,7 +67,7 @@ google_ad_slot           :
 # Site Author
 author:
   name             : "Sam Murphy"
-  avatar           : "bio-photo.jpg"
+  avatar           : "bio_image.png"
   bio              : "Computer science student and aspiring game developer."
   location         : "Hull"
   email            : "sam-murphy@hotmail.co.uk"
