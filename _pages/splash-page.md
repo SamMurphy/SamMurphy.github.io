@@ -9,7 +9,7 @@ header:
   overlay_image: splash-banner.JPG
 excerpt: "I'm a computer science student currently studying for my masters degree at the university of hull. Once completed, I hope to pursue a career in game development."
 portfolio_feature:
-  - image_path: unsplash-gallery-image-2-th.jpg
+  - image_path: Splash-portfolio.png
     alt: "portfolio"
     title: "Portfolio"
     excerpt: "Projects that I've completed, both on my own and as part of a larger team."
