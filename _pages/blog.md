@@ -1,8 +1,6 @@
 ---
-title: "Blog"
 layout: archive
 author_profile: true
-excerpt: "My blog, all things tech and games related."
 permalink: /blog/
 ---
 
