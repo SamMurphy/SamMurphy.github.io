@@ -1,20 +1,13 @@
 ---
-title: "Foo Bar Identity"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+title: "The Collumn"
+excerpt: "This is my coursework project for a second year module, '3D Graphics and Simulation' at the University of Hull. It was developed in C# & OpenGL using shaders."
 header:
-  image: foo-bar-identity.jpg
-  teaser: foo-bar-identity-th.jpg
-sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+  image: Collumn-image.png
+  teaser: Collumn-teaser.png
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+This is my coursework project for a second year module, '3D Graphics and Simulation' at the University of Hull. I received a mark of 83%. It was developed in C# OpenGL using shaders.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jYbO08CpF0o" frameborder="0" allowfullscreen></iframe>
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+The column is a series of boxes stacked on top of each other. The top box serves as an emitter box, randomly spawning different balls. The second and third boxes contain various cylinders for the spheres to collide with. The final box features the 'Sphere of Doom', when a ball collides with it, it loses size or is destroyed depending on how far into the sphere of doom it goes.
