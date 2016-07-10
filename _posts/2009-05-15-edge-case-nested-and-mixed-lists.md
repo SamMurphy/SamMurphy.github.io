@@ -7,7 +7,7 @@ comments: true
 share: true
 related: true
 categories:
-  - "Edge Case"
+  - EdgeCase
 tags:
   - content
   - css
