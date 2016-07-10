@@ -8,6 +8,12 @@ tags:
   - edge case
   - lists
   - markup
+layout: single
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 Nested and mixed lists are an interesting beast. It's a corner case to make sure that
