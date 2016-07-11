@@ -1,5 +1,11 @@
 ---
 title: "Edge Case2: Nested and Mixed Lists"
+layout: single
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 categories:
   - "Edge Case"
 tags:
