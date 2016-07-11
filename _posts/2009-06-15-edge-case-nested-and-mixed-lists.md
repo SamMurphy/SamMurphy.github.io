@@ -1,7 +1,7 @@
 ---
 title: "Edge Case2: Nested and Mixed Lists"
 categories:
-  - Edge Case
+  - "Edge Case"
 tags:
   - content
   - css
