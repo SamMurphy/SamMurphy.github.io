@@ -212,7 +212,7 @@ compress_html:
     envs: development
     
 collections:
-  Portfolio:
+  portfolio:
     output: true
     permalink: /:collection/:path/
     
@@ -220,7 +220,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: Posts
+      type: posts
     values:
       layout: single
       author_profile: true
@@ -233,7 +233,7 @@ defaults:
   # _pages
   - scope:
       path: ""
-      type: Pages
+      type: pages
     values:
       layout: single
 
@@ -241,7 +241,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: Portfolio
+      type: portfolio
     values:
       layout: single
       author_profile: false
