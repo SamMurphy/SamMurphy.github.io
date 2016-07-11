@@ -220,7 +220,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: Posts
     values:
       layout: single
       author_profile: true
@@ -233,7 +233,7 @@ defaults:
   # _pages
   - scope:
       path: ""
-      type: pages
+      type: Pages
     values:
       layout: single
 
@@ -241,7 +241,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: Portfolio
     values:
       layout: single
       author_profile: false
