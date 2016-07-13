@@ -16,6 +16,8 @@ tags:
   - review
   - "fractal design"
   - cases
+header:
+  teaser: FractalFRONT_PANEL.JPG
 ---
 
 As I mentioned in my previous post I’ve bought myself a new case, the Fractal Design Arc Midi R2. It arrived on Tuesday and I promptly opened it up and installed my components in to the new case. It came in the usual box with some polystyrene to keep it safe, a user manual and a box full of a ridiculous amount of spare screws (not that I’m complaining).

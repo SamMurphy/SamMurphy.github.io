@@ -15,6 +15,8 @@ tags:
   - hardware
   - linux
   - "raspberry  pi"
+header:
+  teaser: PivsPrinter-Pi.jpg
 ---
 
 Recently I decided to try and get the Raspberry Pi working as a print server with my aging HP printer, and wow what a challenge it was I had no idea how impossible it is to find drivers for old printers that work with Linux, ARM architecture and CUPS, speaking of CUPS that too took a considerable amount of time to get working.

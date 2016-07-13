@@ -17,6 +17,8 @@ tags:
   - "fractal design"
   - cases
   - updates
+header:
+  teaser: FractalUpdatePIC2.JPG
 ---
 
 In my previous review of the Arc Midi R2 that you can find here, I made two complaints. One was that the fan controller didn’t work, the other that the window was tinted making it difficult to see the components.

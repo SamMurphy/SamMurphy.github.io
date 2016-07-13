@@ -15,6 +15,8 @@ tags:
   - eyefinity
   - monitors
   - LG
+header:
+  teaser: EyefinityPic2.jpg
 ---
 
 I recently purchased three brand spanking new shiny monitors, well they're not shiny the glare would be awful. They're rather beautiful 24" 1920 x 1080 LED monitors from LG setting me back at about £140 a piece. I bought them mostly because I could, after working all summer my money was burning a hole in my pockets, but also to enable me to play games in the fabled Eyefinity.

@@ -16,6 +16,8 @@ tags:
   - review
   - keyboard
   - "cooler master"
+header:
+  teaser: QuickfirePic1.JPG
 ---
 
 I recently got a new keyboard, the Cooler Master QuickFire TK. It’s my second mechanical keyboard the first being the Razer Black widow, this time round I opted for brown switches similar to the blues in my black widow they have quite a nice tactile response however they are much, much quieter.

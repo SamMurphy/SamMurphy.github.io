@@ -13,6 +13,8 @@ tags:
   - technology
   - hardware
   - "hard drive"
+header:
+  teaser: HDDDustySSD.JPG
 ---
 
 I’ve been running out of space on my 1TB hard drive, so I bought myself a nice 3TB Seagate Barracuda to replace. I haven’t quite decided what to do with the 1TB drive, but I’m sure I’ll find a use for it. When I went to install my new drive I found that my PC was rather dusty so I took it outside to give it a clean.

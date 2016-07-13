@@ -16,6 +16,8 @@ tags:
   - hardware
   - microphone
   - review
+header:
+  teaser: Snowball1.JPG
 ---
 
 ![Server Update]({{ site.url }}/images/Snowball1.JPG){: .align-center}

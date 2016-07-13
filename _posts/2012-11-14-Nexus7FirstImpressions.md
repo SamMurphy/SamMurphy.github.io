@@ -17,6 +17,8 @@ tags:
   - google
   - tablet
   - android
+header:
+  teaser: NexusLandscape.jpg
 ---
 
 My latest purchase was Google’s new tablet the Nexus 7; I bought it off one of my friends parents who longed for something bigger. So far I love it, I’ve found the 7” form factor to be surprisingly good, and I thought it would be too small, but it’s pretty much perfect small enough to be highly portable and big enough that watching films and taking notes is still comfortable. Its fits well in my hands at 340g it feels just right the weight and the textured back adds a really nice look as well as feel to the tablet.

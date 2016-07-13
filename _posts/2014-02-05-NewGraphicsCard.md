@@ -17,6 +17,8 @@ tags:
   - amd
   - 280x
   - gigabyte
+header:
+  teaser: Graphics2.JPG
 ---
 
 ![Server Update]({{ site.url }}/images/Graphics2.JPG){: .align-center}

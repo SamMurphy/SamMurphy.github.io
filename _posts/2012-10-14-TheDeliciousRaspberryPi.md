@@ -16,6 +16,8 @@ tags:
   - "raspberry pi"
   - servers
   - review
+header:
+  teaser: my-RPPic1.jpeg
 ---
 
 ![Raspberry Pi]({{ site.url }}/images/RPPic1.jpeg){: .align-center}
