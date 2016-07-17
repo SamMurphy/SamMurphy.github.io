@@ -101,6 +101,7 @@ include:
   - .htaccess
   - _pages
   - _posts
+  - _theberesfordreview
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -228,6 +229,18 @@ defaults:
       comments: true
       share: true
       related: true
+      
+defaults:
+  # _theberesfordreview
+  - scope:
+      path: ""
+      type: theberesfordreview
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
       
 defaults:
   # _pages
