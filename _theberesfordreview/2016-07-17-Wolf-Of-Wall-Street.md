@@ -5,6 +5,7 @@ author_profile: true
 read_time: true
 comments: true
 share: true
+author: Will Rose
 header:
   teaser: TheBesesfordReview.png
 ---

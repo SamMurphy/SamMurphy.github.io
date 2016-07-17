@@ -1,0 +1,32 @@
+Sam Murphy:
+  name             : "Sam Murphy"
+  avatar           : "bio_image.png"
+  bio              : "Computer science student and aspiring game developer."
+  location         : "Hull"
+  email            : "sam-murphy@hotmail.co.uk"
+  facebook         : "sammurphy1994"
+  github           : "SamMurphy"
+  linkedin         : "sam-murphy-75b0599a"
+  steam            : "smurph1398/"
+  twitter          : "sammurphytweets"
+  
+Will Rose:
+  name             : "Will Rose"
+  avatar           : "will_image.png"
+  bio              : "Physicist and reviewer extraordinaire, one day may create wiggles net and rule the world..."
+  
+Adam Kadowski:
+  name             : "Adam Kadowski"
+  avatar           : "adam_image.png"
+  bio              : "Computer science student and aspiring game developer."
+  uri              : "http://kadowski.blogspot.co.uk/"
+  
+Alessio Caruso:
+  name             : "Alessio Caruso"
+  avatar           : "ali_image.png"
+  bio              : "The enforcer. A boxing champion, qualified in sports."
+  
+Adam Sprikuts:
+  name             : "Adam Sprikuts"
+  avatar           : "sprikuts_image.png"
+  bio              : "Physicist and average reviewer, holds a rank lower than the barnacles on the box of the boat, but is somehow important none the less."
