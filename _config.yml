@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : "Sam Murphy"
 description              : "Portfolio & Blog."
 url                      : "http://sammurphy.me"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : 
 gh_repo                  :
 teaser                   : "Default-Teaser.png"
 # breadcrumbs            : false # true, false (default)
