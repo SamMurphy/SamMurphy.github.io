@@ -13,7 +13,7 @@ name                     : "Sam Murphy"
 description              : "Portfolio & Blog."
 url                      : "http://sammurphy.me"
 baseurl                  : 
-gh_repo                  :
+gh_repo                  : "https://github.com/SamMurphy/SamMurphy.github.io"
 teaser                   : "Default-Teaser.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
