@@ -19,4 +19,4 @@ It's a good comedy drama, but not amazing. Good film, theres just a few big peri
 
 ## 7.5/10(ish)
 
-![Wolf of Wall Street]({{ site.url }}/images/wolfofwallstreet.JPG){: .align-center}
+![Wolf of Wall Street]({{ site.url }}/images/wolfofwallstreet.jpg){: .align-center}
