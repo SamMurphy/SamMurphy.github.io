@@ -11,7 +11,7 @@ title                    : "Sam Murphy"
 title_separator          : "-"
 name                     : "Sam Murphy"
 description              : "Portfolio & Blog."
-url                      : "https://SamMurphy.github.io"
+url                      : "http://sammurphy.me/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : "Default-Teaser.png"
