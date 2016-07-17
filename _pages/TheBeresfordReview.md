@@ -2,9 +2,10 @@
 layout: archive
 title: "The Beresford Review"
 permalink: /theberesfordreview/
+header:
+  teaser: TheBesesfordReview.png
+  image: TheBesesfordReviewBanner.png
 ---
-
-![Monitor Image]({{ site.url }}/images/TheBesesfordReviewBanner.png){: .align-center}
 
 {% include base_path %}
 
