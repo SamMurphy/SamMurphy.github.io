@@ -12,21 +12,21 @@ Sam Murphy:
   
 Will Rose:
   name             : "Will Rose"
-  avatar           : "will_image.png"
+  avatar           : "will_image.jpg"
   bio              : "Physicist and reviewer extraordinaire, one day may create wiggles net and rule the world..."
   
 Adam Kadowski:
   name             : "Adam Kadowski"
-  avatar           : "adam_image.png"
+  avatar           : "adam_image.jpg"
   bio              : "Computer science student and aspiring game developer."
   uri              : "http://kadowski.blogspot.co.uk/"
   
 Alessio Caruso:
   name             : "Alessio Caruso"
-  avatar           : "ali_image.png"
+  avatar           : "ali_image.jpg"
   bio              : "The enforcer. A boxing champion, qualified in sports."
   
 Adam Sprikuts:
   name             : "Adam Sprikuts"
-  avatar           : "sprikuts_image.png"
+  avatar           : "sprikuts_image.jpg"
   bio              : "Physicist and average reviewer, holds a rank lower than the barnacles on the box of the boat, but is somehow important none the less."
