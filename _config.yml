@@ -223,7 +223,8 @@ collections:
     
 defaults:
   # _posts
-  - scope:
+  - 
+    scope:
       path: ""
       type: posts
     values:
@@ -233,10 +234,9 @@ defaults:
       comments: true
       share: true
       related: true
-      
-defaults:
   # _theberesfordreview
-  - scope:
+  - 
+    scope:
       path: ""
       type: theberesfordreview
     values:
@@ -245,18 +245,16 @@ defaults:
       read_time: true
       comments: true
       share: true
-      
-defaults:
   # _pages
-  - scope:
+  - 
+    scope:
       path: ""
       type: pages
     values:
       layout: single
-
-defaults:
   # _portfolio
-  - scope:
+  - 
+    scope:
       path: ""
       type: portfolio
     values:
