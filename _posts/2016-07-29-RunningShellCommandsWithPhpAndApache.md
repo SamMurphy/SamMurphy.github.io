@@ -16,8 +16,6 @@ tags:
   - webhosting
   - html
   - css
-header:
-  teaser: CODEIMAGE.jpg
 ---
 
 My internet connection for my home server is slightly less than stable, as such the team speak server that I host on there often needs restarting. Rather than doing the sensible thing and just starting the teamspeak server when the system turns on, I decided to get creative and make a server admin web interface using; apache, php, a sprikling of html, and a pile of shell scripts. The first step is to get apache and php up and running, then we'll sort out the php and the scripts.
