@@ -20,7 +20,7 @@ tags:
 
 My internet connection for my home server is slightly less than stable, as such the team speak server that I host on there often needs restarting. Rather than doing the sensible thing and just starting the teamspeak server when the system turns on, I decided to get creative and make a server admin web interface using; apache, php, a sprikling of html, and a pile of shell scripts. The first step is to get apache and php up and running, then we'll sort out the php and the scripts.
 
-##Installing Apache and Php
+## Installing Apache and Php
 Thanks to ubuntus package manager, installing both of these packages is very straight forward. All you need to do is run the following commands:
 
 ```bash
@@ -31,7 +31,7 @@ sudo /etc/init.d/apache2 restart
 ```
 Once the installation is completed, you have a fully functional web server up and running. Now any files in `/var/www/` will be hosted on the server. If you want your website to be available over the internet then you'll have to forward port `80` or if you want to use a custom port, you'll have to change `Listen 80` to your port of choice in `/etc/apache2/ports.conf` and then restart your apache server.
 
-##Creating the web page
+## Creating the web page
 Now that we've got apache and php up and running it's almost time to move on to the fun bit, writting the php script and the html form to trigger it, but first we've got to make sure all the bash scripts that we want to run are set up properly and that we know where they are. To keep it simple I've stored all the scripts I want to run in `/serverscripts/' on the root of the system, this way I won't have to faf around trying to find them if something goes wrong.
 
 Now it's finally time to write some php to run our scripts, I'll show you the code first and then explain what it does directly underneath.
@@ -73,5 +73,5 @@ Most of that html is just setup stuff, the import bits are the two lines in para
 
 Hopefully you've got all that working now, but if you don't feel free to comment below and I'll do my best to help you along.
 
-###Tip and Tricks
+### Tip and Tricks
 If you change `exec` to `echo exec` then it'll return the output of the script and show it on your webpage, but you might need to do some fiddling to get it to display nicely.
