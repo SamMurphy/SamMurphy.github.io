@@ -9,6 +9,6 @@ header:
 
 {% include base_path %}
 
-{% for post in site.theberesfordreview %}
+{% for post in site.theberesfordreview reversed %}
     {% include archive-single.html %}
 {% endfor %}
