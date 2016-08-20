@@ -2,7 +2,6 @@
 title: "Javascript Terrain Generation Techniques"
 excerpt: "A three.js project to demonstate different techniques for generating realistic terrain."
 header:
-  image: perlin1.jpg
   teaser: perlin1.jpg
 ---
 
