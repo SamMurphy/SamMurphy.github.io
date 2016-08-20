@@ -18,4 +18,4 @@ Currently it only supports perlin noise generation and the controls don't do any
 [Click here for the source code!](https://github.com/SamMurphy/Javascript-Terrain-Generation)
 
 
-![PerlinNoise](/images/perlin1.jpg)
+![PerlinNoise](/images/perlin1.jpg){: .align-center}
