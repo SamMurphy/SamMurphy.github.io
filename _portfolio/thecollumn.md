@@ -2,9 +2,10 @@
 title: "The Collumn"
 excerpt: "This is my coursework project for a second year module, '3D Graphics and Simulation' at the University of Hull. It was developed in C# & OpenGL using shaders."
 header:
-  image: Collumn-image.png
   teaser: Collumn-teaser.png
 ---
+
+![The Collum](/images/Collumn-teaser.png)
 
 This is my coursework project for a second year module, '3D Graphics and Simulation' at the University of Hull. I received a mark of 83%. It was developed in C# OpenGL using shaders.
 
