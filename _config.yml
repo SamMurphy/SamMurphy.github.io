@@ -220,6 +220,9 @@ collections:
   theberesfordreview:
     output: true
     permalink: /:collection/:path/
+  notes:
+    output: true
+    permalink: /:collection/:path/
     
 defaults:
   # _posts
@@ -261,3 +264,15 @@ defaults:
       layout: single
       author_profile: true
       share: true
+  # _posts
+  - 
+    scope:
+      path: ""
+      type: notes
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
