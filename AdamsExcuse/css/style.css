@@ -26,7 +26,7 @@ body{
 	width: 100%;
 	text-align: center;
 }
-#quoteButton{
+#excuseButton{
 	width:200px;
 	margin-top: 10px;
 	border:2px solid #46b8da;
@@ -38,15 +38,15 @@ body{
 	text-align: center;
 }
 
-#quoteButton:hover{
+#excuseButton:hover{
 	cursor:pointer;
 	background:#09c;
 	color: #fff;	
 }
-#quoteButton:active{
+#excuseButton:active{
 	cursor: pointer;
 }
-#quoteButton{
+#excuseButton{
 	display: inline-block;
 }
 #quoteGenius{
@@ -58,7 +58,7 @@ body{
 
 /*MEDIA QUERIES*/
 @media screen and(max-width:760px){
-	#quoteButton,#addNew{
+	#excuseButton,#addNew{
 		display: block;
 	}
 }
