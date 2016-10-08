@@ -14,7 +14,7 @@ $(document).ready(function(){
 		"I can't be bothered to go"
 	];	
 
-	$('#quoteButton').click(function(evt) {
+	$('#excuseButton').click(function(evt) {
 		//define the containers of the info we target
 		var quote = $('#quoteContainer p').text();
 		var quoteGenius = $('#quoteGenius').text();
