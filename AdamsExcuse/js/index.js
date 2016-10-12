@@ -12,7 +12,11 @@ $(document).ready(function(){
 		"I forgot to put down the bathmat, so slipped on the soaking wet floor and broke my neck",
 		"I danced to Abba too vigorously and injured my neck",
 		"I can't be bothered to go",
-		"To be fair, the toaster made my toast too brown"
+		"To be fair, the toaster made my toast too brown",
+		"To be fair, I planned on going but then I didn't",
+		"... It's a Thursday",
+		"I wanted to but breakfast is more important",
+		"I only had 2 hours to get ready"
 	];	
 
 	$('#excuseButton').click(function(evt) {
