@@ -55,6 +55,13 @@ body{
 	text-align: center;
 }
 
+#face{
+	margin: auto;
+    width: 128px;
+    height: 128px;
+    padding: 10px;
+}
+
 
 /*MEDIA QUERIES*/
 @media screen and(max-width:760px){

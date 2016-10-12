@@ -10,8 +10,9 @@ $(document).ready(function(){
 		"I forgot",
 		"My alarm didn't go off",
 		"I forgot to put down the bathmat, so slipped on the soaking wet floor and broke my neck",
-		"I danced to Abba to vigorously and injured my neck",
-		"I can't be bothered to go"
+		"I danced to Abba too vigorously and injured my neck",
+		"I can't be bothered to go",
+		"To be fair, the toaster made my toast too brown"
 	];	
 
 	$('#excuseButton').click(function(evt) {
