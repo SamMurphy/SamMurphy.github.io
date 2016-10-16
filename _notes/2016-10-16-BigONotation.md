@@ -15,13 +15,10 @@ tags:
 
 Big O notation is a measure of how well an algorithm scales, with larger data  sets.
 
-Measures the most complex part of algorithm, discards the parts that have very little effect once you get up to a very large data set. For instance in the equation: $$ x = 45n^3 + 20n^2 + 19 $$ once $ n > 100 $ the "$ + 19 $ " becomes _irrelevant_ to the outcome and once n is even bigger even the "$ 20n^2 $" part becomes _irrelevant_, so the order become $O(n^3)$.
+Measures the most complex part of algorithm, discards the parts that have very little effect once you get up to a very large data set. For instance in the equation: x = 45n^3 + 20n^2 + 19 once n > 100 the "+ 19" becomes _irrelevant_ to the outcome and once n is even bigger even the "20n^2" part becomes _irrelevant_, so the order become O(n^3).
 
-\(x = 45n^3 + 20n^2 + 19\)
-\[x = 45n^3 + 20n^2 + 19\]
-\\[x = 45n^3 + 20n^2 + 19\\]
 
-## $$ O(1) $$
+## O(1)
 
 
 ```c#
@@ -33,7 +30,7 @@ void addItemToArray(int newItem)
 
 Not matter what size the array is, this will take the same amount of time to execute.
 
-## \$$ O(n) $$
+## O(n)
 
 ```c#
 void linearSearch(int itemToFind)
@@ -50,7 +47,7 @@ void linearSearch(int itemToFind)
 
  Has to go through every item in the array at least once (worse case), the efficiency of the algorithm is directly proportional to the size of the data set.
 
-## $ O(n^2), O(n^3) ...$
+## O(n^2), O(n^3) ...
 
 ```c#
 void bubbleSort()
@@ -66,9 +63,9 @@ void bubbleSort()
 }
 ```
 
-Nested loop, so the main loop is order of $ O(n) $ and then the nested loop is also $ O(n) $, as such the whole algorithm is $O(nn) = O(n^2) $.  Therefore for algorithms with more nested loops the exponent would increase, i.e. 3 nested loops has an order of $ O(n^3) $.
+Nested loop, so the main loop is order of O(n) and then the nested loop is also O(n), as such the whole algorithm is O(nn) = O(n^2).  Therefore for algorithms with more nested loops the exponent would increase, i.e. 3 nested loops has an order of O(n^3).
 
-## $O(log N)$
+## O(log N)
 
 ```c#
 void binarySearch(int itemToFind)
@@ -92,9 +89,9 @@ void binarySearch(int itemToFind)
 }
 ```
 
-Here there is only one loop through the data, similar to $O(n)$ but the data being looped through is decreased by roughly 50% each iteration this makes it $O(logN)$ which is much more effecient than $O(n)$.
+Here there is only one loop through the data, similar to O(n) but the data being looped through is decreased by roughly 50% each iteration this makes it O(logN) which is much more effecient than O(n).
 
-## $O(n log n)$
+## O(n log n)
 
 ```c#
 void quickSort(int left, int right)
@@ -133,4 +130,4 @@ int partionArray(int left, int right, int pivot)
 }
 ```
 
-The number of comparisons is equal to $ log n! $ which equals $ n log n$.
+The number of comparisons is equal to log(n)! which equals nlog(n).
