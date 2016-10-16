@@ -15,7 +15,11 @@ tags:
 
 Big O notation is a measure of how well an algorithm scales, with larger data  sets.
 
-Measures the most complex part of algorithm, discards the parts that have very little effect once you get up to a very large data set. For instance in the equation: $ x = 45n^3 + 20n^2 + 19 $ once $ n > 100 $ the "$ + 19 $ " becomes _irrelevant_ to the outcome and once n is even bigger even the "$ 20n^2 $" part becomes _irrelevant_, so the order become $O(n^3)$.
+Measures the most complex part of algorithm, discards the parts that have very little effect once you get up to a very large data set. For instance in the equation: $$ x = 45n^3 + 20n^2 + 19 $$ once $ n > 100 $ the "$ + 19 $ " becomes _irrelevant_ to the outcome and once n is even bigger even the "$ 20n^2 $" part becomes _irrelevant_, so the order become $O(n^3)$.
+
+\(x = 45n^3 + 20n^2 + 19\)
+\[x = 45n^3 + 20n^2 + 19\]
+\\[x = 45n^3 + 20n^2 + 19\\]
 
 ## $$ O(1) $$
 
