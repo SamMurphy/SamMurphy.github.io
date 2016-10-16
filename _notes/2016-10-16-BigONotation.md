@@ -17,7 +17,8 @@ Big O notation is a measure of how well an algorithm scales, with larger data  s
 
 Measures the most complex part of algorithm, discards the parts that have very little effect once you get up to a very large data set. For instance in the equation: $ x = 45n^3 + 20n^2 + 19 $ once $ n > 100 $ the "$ + 19 $ " becomes _irrelevant_ to the outcome and once n is even bigger even the "$ 20n^2 $" part becomes _irrelevant_, so the order become $O(n^3)$.
 
-## $ O(1)$
+## \$$ O(1) $$
+
 
 ```c#
 void addItemToArray(int newItem)
@@ -28,7 +29,7 @@ void addItemToArray(int newItem)
 
 Not matter what size the array is, this will take the same amount of time to execute.
 
-## $ O(n) $
+## \$$ O(n) $$
 
 ```c#
 void linearSearch(int itemToFind)
