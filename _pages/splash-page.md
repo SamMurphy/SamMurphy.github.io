@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: splash-banner.JPG
-excerpt: "I'm a computer science student currently studying for my masters degree at the university of hull. Once completed, I hope to pursue a career in game development."
+excerpt: "I'm a Computer Science student currently studying for my masters degree at the University of Hull, specialising in games programming. Once completed, I hope to pursue a career in game development."
 portfolio_feature:
   - image_path: Splash-portfolio.png
     alt: "portfolio"

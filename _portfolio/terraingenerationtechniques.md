@@ -12,10 +12,10 @@ This project, written in javascript using the three.js library, demonstates diff
 
 [Click here for the full screen experience](http://demos.sammurphy.me/terrain/)
 
-Currently it only supports perlin noise generation and the controls don't do anything yet, but soon it should support; diamond-square, perlin noise, simplex noise, 3D perlin noise, brownian motion, particle deposition, and any other algorithms that I can find.
+Currently it supports the perlin noise algorithm built-in to three.js, my own implementation of perlin / simplex noise, the diamond-square algorithm, [particle deposition](https://www.amazon.co.uk/Game-Programming-Gems-CD/dp/1584505273), and the [fault-line](http://www.lighthouse3d.com/opengl/terrain/index.php?fault) algorithm.
 
 
 [Click here for the source code!](https://github.com/SamMurphy/Javascript-Terrain-Generation)
 
 
-[![PerlinNoise](/images/perlin1.jpg)](https://github.com/SamMurphy/Javascript-Terrain-Generation){: .align-center}
+![PerlinNoise](/images/myPerlin.jpg){: .align-center}

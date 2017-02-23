@@ -7,7 +7,9 @@ header:
 
 ![The Collum](/images/Collumn-teaser.png){: .align-center}
 
-This is my coursework project for a second year module, '3D Graphics and Simulation' at the University of Hull. I received a mark of 83%. It was developed in C# OpenGL using shaders.
+### Project Type: Solo | Language: C# / OpenGL
+
+This is my coursework project for a second year module, '3D Graphics and Simulation' at the University of Hull. I received a mark of 83%. It was developed in C# & OpenGL using shaders.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jYbO08CpF0o" frameborder="0" allowfullscreen></iframe>{: .align-center}
 
