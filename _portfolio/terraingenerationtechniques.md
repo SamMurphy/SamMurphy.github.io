@@ -2,7 +2,7 @@
 title: "Javascript Terrain Generation Techniques"
 excerpt: "A three.js project to demonstate different techniques for generating realistic terrain."
 header:
-  teaser: perlin1.jpg
+  teaser: diamond-square.png
 ---
 
 This project, written in javascript using the three.js library, demonstates different techniques for generating realistic looking terrain. 
