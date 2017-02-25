@@ -1,6 +1,6 @@
 ---
 title: "Tunnel Rider"
-excerpt: "C++ / DirectX game and game engine, made for "Game Architecture" module"
+excerpt: "C++ / DirectX game and game engine, made for Game Architecture module"
 header:
   teaser: Collumn-teaser.png
 ---
