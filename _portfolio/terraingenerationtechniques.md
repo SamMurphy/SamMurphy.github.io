@@ -5,7 +5,7 @@ header:
   teaser: diamond-square.png
 ---
 
-###Project Type: Solo | Language: Javascript
+### Project Type: Solo | Language: Javascript
 
 This project, written in javascript using the three.js library, demonstates different techniques for generating realistic looking terrain. 
 
