@@ -5,6 +5,8 @@ header:
   teaser: diamond-square.png
 ---
 
+###Project Type: Solo | Language: Javascript
+
 This project, written in javascript using the three.js library, demonstates different techniques for generating realistic looking terrain. 
 
 <iframe src="http://demos.sammurphy.me/terrain/" frameborder="0" scrolling="no" height="360" width="640"></iframe>{: .align-center}

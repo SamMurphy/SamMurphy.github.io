@@ -1,6 +1,6 @@
 ---
 title: "The Collumn"
-excerpt: "This is my coursework project for a second year module, '3D Graphics and Simulation' at the University of Hull. It was developed in C# & OpenGL using shaders."
+excerpt: "C# / OpenGL Pysics simulation created for a second year module, '3D Graphics and Simulation' at the University of Hull.
 header:
   teaser: Collumn-teaser.png
 ---
