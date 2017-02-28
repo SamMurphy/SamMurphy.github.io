@@ -9,7 +9,7 @@ header:
 
 ### Project Type: Solo | Language: C++ / OpenGL
 
-This project was developed for my dissertation in the final year of my BSc in Computer Science with Games Development. [Full dissertation available here.](docs/fractalFlyover.pdf)
+This project was developed for my dissertation in the final year of my BSc in Computer Science with Games Development. [Full dissertation available here.](http://sammurphy.me/docs/fractalFlyover.pdf)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hnawkmUVQQQ" frameborder="0" allowfullscreen></iframe>
 
