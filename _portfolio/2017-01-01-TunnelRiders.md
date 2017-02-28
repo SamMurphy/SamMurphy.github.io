@@ -2,10 +2,10 @@
 title: "Tunnel Rider"
 excerpt: "C++ / DirectX game and game engine, made for Game Architecture module"
 header:
-  teaser: Collumn-teaser.png
+  teaser: tunnel/menu.png
 ---
 
-![Action shot](/images/){: .align-center}
+![Action shot](/images/tunnel/menu.png){: .align-center}
 
 ### Project Type: Solo | Language: C++ / DirectX
 
@@ -13,10 +13,16 @@ header:
 
 This game is built on top of a component-entity game engine of my own design, which has been kept as generic as possible so that it can be used again to make different games in the future.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jYbO08CpF0o" frameborder="0" allowfullscreen></iframe>{: .align-center}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/48jWCovIJc0" frameborder="0" allowfullscreen></iframe>{: .align-center}
 
 The engine supports 2D and 3D rendering, and has additional support for rendering UI components.
 
 The game can be played in single player or with 2 players competing at the same time. 
 
-[MORE PICTURES]
+![Action shot](/images/tunnel/single.png){: .align-center}
+
+![Action shot](/images/tunnel/comp.png){: .align-center}
+
+![Action shot](/images/tunnel/menu2.png){: .align-center}
+
+![Action shot](/images/tunnel/scores.png){: .align-center}
