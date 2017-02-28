@@ -19,7 +19,7 @@ gallery:
 
 ---
 
-![Action shot](/images/CityGeneration/roof2.png){: .align-center}
+[![Action shot](/images/CityGeneration/roof2.png){: .align-center}](/images/CityGeneration/roof2.png)
 
 ### Project Type: Solo | Language: C# | Engine: Unity
 
