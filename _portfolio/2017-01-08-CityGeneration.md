@@ -3,6 +3,20 @@ title: "City Generation"
 excerpt: "Unity procedural city generation asset"
 header:
   teaser: CityGeneration/roof2.png
+gallery:
+  - url: /images/CityGeneration/fromBelow.PNG
+    image_path: /images/CityGeneration/fromBelow.PNG
+    alt: "From Below"
+    title: "From Below"
+  - url: /images/CityGeneration/grid.PNG
+    image_path: /images/CityGeneration/grid.PNG
+    alt: "Grid"
+    title: "Grid"
+  - url: /images/CityGeneration/hill.PNG
+    image_path: /images/CityGeneration/hill.PNG
+    alt: "Hill"
+    title: "Hill"
+
 ---
 
 ![Action shot](/images/CityGeneration/roof2.png){: .align-center}
@@ -19,3 +33,7 @@ A unity assets designed to create large, American style, procedural cities at th
 </figure>
 
 ![Action shot](/images/CityGeneration/hill.PNG){: .align-center}
+
+
+
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
