@@ -19,27 +19,27 @@ Currently it supports the perlin noise algorithm built-in to three.js, my own im
 
 [Click here for the source code!](https://github.com/SamMurphy/Javascript-Terrain-Generation)
 
-![PerlinNoise](/images/myPerlin.png){: .align-center}
+[![PerlinNoise](/images/myPerlin.png){: .align-center}](/images/myPerlin.png)
 
 *My Perlin Noise implementation*
 
-![Diamond Square](/images/diamond-square.png){: .align-center}
+[![Diamond Square](/images/diamond-square.png){: .align-center}](/images/diamond-square.png)
 
 *Diamond-Square Algorithm*
 
-![Fault-line](/images/fault-algorithm.png){: .align-center}
+[![Fault-line](/images/fault-algorithm.png){: .align-center}](/images/fault-algorithm.png)
 
 *Fault-line Algorithm*
 
-![Particle Deposition](/images/particleDeposition.jpg){: .align-center}
+[![Particle Deposition](/images/particleDeposition.jpg){: .align-center}](/images/particleDeposition.jpg)
 
 *Particle Deposition*
 
-![Particle Deposition](/images/particleDeposition.jpg){: .align-center}
+[![Particle Deposition](/images/particleDeposition.jpg){: .align-center}](/images/particleDeposition.jpg)
 
 *Particle Deposition*
 
-![Perlin](/images/perlin.png){: .align-center}
+[![Perlin](/images/perlin.png){: .align-center}](/images/perlin.png)
 
 *Built-in Perlin Noise*
 

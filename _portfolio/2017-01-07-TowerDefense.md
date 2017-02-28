@@ -6,7 +6,7 @@ header:
 
 ---
 
-![Action shot](/images/towerDefence/1.png){: .align-center}
+[![Action shot](/images/towerDefence/1.png){: .align-center}](/images/towerDefence/1.png)
 
 ### Project Type: Group | Language: C# | Engine: Unity
 
@@ -25,6 +25,6 @@ Created for *Three Thing Game*, a 24 hour game jam run by the University of Hull
 I was responsible for creating the all of the gun mechanics, and the bullets used by both the guns and the turrets. I designed the system to be as modular and reusable as possible, allowing; the fire mode, number of projectiles, projectile type, recoil, muzzle flash, muzzle velocity, and shell ejection to be controlled through the unity inspector. With this entry to the game jam, we finished in 3rd place.
 
 <figure class="half">
-	<img src="/images/towerDefence/2.png">
-	<img src="/images/towerDefence/3.png">
+	<a href="/images/towerDefence/2.png"><img src="/images/towerDefence/2.png"></a>
+	<a href="/images/towerDefence/3.png"><img src="/images/towerDefence/3.png"></a>
 </figure>

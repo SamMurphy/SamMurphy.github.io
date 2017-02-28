@@ -5,7 +5,7 @@ header:
   teaser: terrainGen/act.png
 ---
 
-![Action shot](/images/terrainGen/act.png){: .align-center}
+[![Action shot](/images/terrainGen/act.png){: .align-center}](/images/terrainGen/act.png)
 
 ### Project Type: Solo | Language: C++ / OpenGL
 
@@ -15,10 +15,11 @@ This project was developed for my dissertation in the final year of my BSc in Co
 
 The terrain is generated using my implementation of the ***diamond square algorithm*** in C++ and rendered using OpenGL. It is generated infinitely in a uniform grid. In order to improve performance ***tessellation*** was implemented in the shaders so that terrain that was closer to the camera was more detailed than terrain that was further away.
 
-![Action shot](/images/terrainGen/tess1.png){: .align-center}
+[![Action shot](/images/terrainGen/tess1.png){: .align-center}](/images/terrainGen/tess1.png)
 
-![Action shot](/images/terrainGen/tess2.png){: .align-center}
+[![Action shot](/images/terrainGen/tess2.png){: .align-center}](/images/terrainGen/tess2.png)
 
 *Tessellation*
 
-![Action shot](/images/terrainGen/alg.png){: .align-center}
+[![Action shot](/images/terrainGen/alg.png){: .align-center}](/images/terrainGen/alg.png)
+

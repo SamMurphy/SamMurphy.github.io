@@ -5,7 +5,7 @@ header:
   teaser: unityTerrainGen/1.png
 ---
 
-![Action shot](/images/unityTerrainGen/1.png){: .align-center}
+[![Action shot](/images/unityTerrainGen/1.png){: .align-center}](/images/unityTerrainGen/1.png)
 
 ### Project Type: Solo | Language: C# | Engine: Entity
 

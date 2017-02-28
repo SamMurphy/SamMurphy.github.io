@@ -5,7 +5,7 @@ header:
   teaser: Collumn-teaser.png
 ---
 
-![The Collum](/images/Collumn-teaser.png){: .align-center}
+[![The Collum](/images/Collumn-teaser.png){: .align-center}](/images/Collumn-teaser.png)
 
 ### Project Type: Solo | Language: C# / OpenGL
 

@@ -5,7 +5,7 @@ header:
   teaser: tunnel/menu.png
 ---
 
-![Action shot](/images/tunnel/menu.png){: .align-center}
+[![Action shot](/images/tunnel/menu.png){: .align-center}](/images/tunnel/menu.png)
 
 ### Project Type: Solo | Language: C++ / DirectX
 
@@ -19,10 +19,11 @@ The engine supports 2D and 3D rendering, and has additional support for renderin
 
 The game can be played in single player or with 2 players competing at the same time. 
 
-![Action shot](/images/tunnel/single.png){: .align-center}
+[![Action shot](/images/tunnel/single.png){: .align-center}](/images/tunnel/single.png)
 
-![Action shot](/images/tunnel/comp.png){: .align-center}
+[![Action shot](/images/tunnel/comp.png){: .align-center}](/images/tunnel/comp.png)
 
-![Action shot](/images/tunnel/menu2.png){: .align-center}
+[![Action shot](/images/tunnel/menu2.png){: .align-center}](/images/tunnel/menu2.png)
 
-![Action shot](/images/tunnel/scores.png){: .align-center}
+[![Action shot](/images/tunnel/scores.png){: .align-center}](/images/tunnel/scores.png)
+
