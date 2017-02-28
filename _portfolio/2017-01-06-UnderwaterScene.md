@@ -2,10 +2,10 @@
 title: "Under Water Scene"
 excerpt: "C++ / DirectX scene to demonstrate graphical techniques"
 header:
-  teaser: underwater/whale.png
+  teaser: undewater/whale.png
 ---
 
-![Action shot](/images/underwater/overall.png){: .align-center}
+![Action shot](/images/undewater/overall.png){: .align-center}
 
 ### Project Type: Solo | Language: C++ / DirectX
 
@@ -19,13 +19,13 @@ An underwater scene created in C++ and DirectX to demonstrate graphical techniqu
 
 AntTweakBar was used to allow the user to change various settings on the fly, as well as speed up and slow down time, and review statistics on the performance of the scene.
 
-![Action shot](/images/underwater/overall2.png){: .align-center}
+![Action shot](/images/undewater/overall2.png){: .align-center}
 
-![Action shot](/images/underwater/newsub.png){: .align-center}
+![Action shot](/images/undewater/newsub.png){: .align-center}
 
-![Action shot](/images/underwater/oldsub.png){: .align-center}
+![Action shot](/images/undewater/oldsub.png){: .align-center}
 
-![Action shot](/images/underwater/whale.png){: .align-center}
+![Action shot](/images/undewater/whale.png){: .align-center}
 
-![Action shot](/images/underwater/fish.png){: .align-center}
+![Action shot](/images/undewater/fish.png){: .align-center}
 
