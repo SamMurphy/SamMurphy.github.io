@@ -4,16 +4,16 @@ excerpt: "Unity procedural city generation asset"
 header:
   teaser: CityGeneration/roof2.png
 gallery:
-  - url: /images/CityGeneration/fromBelow.PNG
-    image_path: /images/CityGeneration/fromBelow.PNG
+  - url: CityGeneration/fromBelow.PNG
+    image_path: CityGeneration/fromBelow.PNG
     alt: "From Below"
     title: "From Below"
-  - url: /images/CityGeneration/grid.PNG
-    image_path: /images/CityGeneration/grid.PNG
+  - url: CityGeneration/grid.PNG
+    image_path: CityGeneration/grid.PNG
     alt: "Grid"
     title: "Grid"
-  - url: /images/CityGeneration/hill.PNG
-    image_path: /images/CityGeneration/hill.PNG
+  - url: CityGeneration/hill.PNG
+    image_path: CityGeneration/hill.PNG
     alt: "Hill"
     title: "Hill"
 
