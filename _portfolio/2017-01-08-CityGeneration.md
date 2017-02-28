@@ -14,8 +14,8 @@ A unity assets designed to create large, American style, procedural cities at th
 ![Action shot](/images/CityGeneration/roof1.png){: .align-center}
 
 <figure class="half">
-	<img src="/images/CityGeneration/fromBelow.png">
-	<img src="/images/CityGeneration/grid.png">
+	<img src="/images/CityGeneration/fromBelow.PNG">
+	<img src="/images/CityGeneration/grid.PNG">
 </figure>
 
-![Action shot](/images/CityGeneration/hill.png){: .align-center}
+![Action shot](/images/CityGeneration/hill.PNG){: .align-center}
