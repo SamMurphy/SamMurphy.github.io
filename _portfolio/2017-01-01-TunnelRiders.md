@@ -13,6 +13,8 @@ header:
 
 This game is built on top of a component-entity game engine of my own design, which has been kept as generic as possible so that it can be used again to make different games in the future.
 
+[Source code available here](https://github.com/SamMurphy/TunnelRiders)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/48jWCovIJc0" frameborder="0" allowfullscreen></iframe>{: .align-center}
 
 The engine supports 2D and 3D rendering, and has additional support for rendering UI components.
