@@ -13,7 +13,7 @@ header:
 
 This game is built on top of a component-entity game engine of my own design, which has been kept as generic as possible so that it can be used again to make different games in the future.
 
-[Source code available here](https://github.com/SamMurphy/TunnelRiders)
+[The full source code is available here](https://github.com/SamMurphy/TunnelRiders)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/48jWCovIJc0" frameborder="0" allowfullscreen></iframe>{: .align-center}
 
