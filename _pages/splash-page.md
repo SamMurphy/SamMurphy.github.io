@@ -43,7 +43,7 @@ feature_row:
     alt: "Server"
     title: "Server Information"
     excerpt: "All the information needed to connect to the various game servers that I host."
-    url: "http://sammurphy.no-ip.info/"
+    url: "http://samsserver.ddns.net/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---
