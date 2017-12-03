@@ -1,6 +1,7 @@
 ---
 title: "Sam's Christmas Wish List 2017"
 layout: single
+permalink: /christmas/
 author_profile: true
 read_time: true
 comments: true
@@ -12,8 +13,6 @@ tags:
   - Christmas
 header:
   teaser: christmas.jpg
-
-
 ---
 
 In no particular order:
