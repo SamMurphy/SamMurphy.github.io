@@ -28,6 +28,9 @@ In no particular order:
 - [Google Home Mini in Black - £49](https://store.google.com/config/google_home_mini)
 - [Imploding Kittens - £14.99](https://www.amazon.co.uk/dp/B01HSIIFQ2/_encoding=UTF8?coliid=IKNUR8ZO7L89W&colid=3T5QPQ0KJ98CX&psc=0)
 - [Spatula (or a nicer one) - £4](https://www.amazon.co.uk/Kitchen-Master-Stainless-Turner-Silver/dp/B000YJDBM6/ref=sr_1_5?s=kitchen&ie=UTF8&qid=1512328286&sr=1-5&keywords=spatula)
+- [Xbox One Controller - £57](https://www.amazon.co.uk/Microsoft-217977-Xbox-Controller-Wireless/dp/B01LY58HQJ/ref=sr_1_8?ie=UTF8&qid=1512683782&sr=8-8&keywords=xbox+one+controller+pc)
+- [Nintendo Switch Pro Controller - £59.85](https://www.amazon.co.uk/Nintendo-Switch-Pro-Controller-Black/dp/B01N4ND1T2/ref=sr_1_3?s=videogames&ie=UTF8&qid=1512683855&sr=1-3&keywords=switch+controllers)
+- [Nintendo Switch Joy Cons - £69](https://www.amazon.co.uk/Joy-Pair-Green-Nintendo-Switch/dp/B072BZ66JL/ref=sr_1_2?s=videogames&ie=UTF8&qid=1512683855&sr=1-2&keywords=switch+controllers)
 - A giant wooden chopping board
 - Surprises!
 
