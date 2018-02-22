@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: splash-banner.JPG
-excerpt: "I'm a Computer Science student currently studying for my masters degree at the University of Hull, specialising in games programming. Once completed, I hope to pursue a career in game development."
+excerpt: "Programmer at [Stellar Entertainment](http://stellarentertainment.software/), have worked on Burnout Paradise Remastered as part of the graphics team. I have a first class degree in Computer Science with Games Development from the University of Hull and am still working on getting my masters in the same subject."
 portfolio_feature:
   - image_path: Splash-portfolio.png
     alt: "portfolio"
