@@ -102,7 +102,6 @@ include:
   - _pages
   - _posts
   - _portfolio
-  - _theberesfordreview
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -217,9 +216,6 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  theberesfordreview:
-    output: true
-    permalink: /:collection/:path/
   notes:
     output: true
     permalink: /:collection/:path/
@@ -237,17 +233,6 @@ defaults:
       comments: true
       share: true
       related: true
-  # _theberesfordreview
-  - 
-    scope:
-      path: ""
-      type: theberesfordreview
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
   # _pages
   - 
     scope:
