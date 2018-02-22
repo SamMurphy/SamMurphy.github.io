@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: splash-banner.JPG
-excerpt: "Programmer at [Stellar Entertainment](http://stellarentertainment.software/), have worked on Burnout Paradise Remastered as part of the graphics team. I have a first class degree in Computer Science with Games Development from the University of Hull and am still working on getting my masters in the same subject."
+excerpt: "Programmer at [Stellar Entertainment](http://stellarentertainment.software/), have worked on [Burnout Paradise Remastered](https://www.youtube.com/watch?v=f4JqCmt9hzE&t=1s) as part of the graphics team. I have a first class degree in Computer Science with Games Development from the University of Hull and am still working on getting my masters in the same subject."
 portfolio_feature:
   - image_path: Splash-portfolio.png
     alt: "portfolio"
